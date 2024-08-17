@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MainPage from './pages/MainPage';
 import AddStudent from './pages/AddStudent';
 import RetrieveAllStudents from './pages/RetrieveAllStudents';
-import RetrieveStudent from './pages/RetrieveStudent';
+// import RetrieveStudent from './pages/RetrieveStudent';
 import DeleteStudent from './pages/DeleteStudent';
 import UpdateStudent from './pages/UpdateStudent';
 
